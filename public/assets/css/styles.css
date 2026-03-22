@@ -1,0 +1,14 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+#viewer {
+    width: 100%;
+    min-height: 100vh;
+}
+canvas {
+    display: block;
+    max-width: 100%;
+    height: auto;
+}
